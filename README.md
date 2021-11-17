@@ -3,9 +3,7 @@
 ## About us: Name/Github Username
 Azan Sikder / Axxaan
 
-Dane Rosedo / 
-
-Olly Love / 
+Olly Love / gituser1034
 
 ## Introduction
 
