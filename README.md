@@ -6,11 +6,6 @@ Azan Sikder / Axxaan
 Olly Love / gituser1034
 
 ## Introduction -
-You should introduce the topic you are reporting one.
- You should describe the dataset(s) including giving credit to their sources.
- Depending on your writing style, you may or may not add personal anecdotes to make 
-the reading more relatable, or motivate readers to continue reading.
-
 In this report we will be analyzing the trends that users of the Google Play Store display on a daily basis. The data is given by Google for the
 public to view and has many potential user trends that will be analyzed in this report. Apps have become one of the biggest devices in todays society
 and allows us to connect, learn, and entertain ourselves all within a handheld device. The Google Play Store is one of the biggest appstores leading
