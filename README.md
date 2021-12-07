@@ -1,5 +1,5 @@
 
-# Google Play Store User Trends Analysis (Temporary Title)
+# What are users downloading on the Google Play Store?
 
 ## About us: Name/Github Username
 Azan Sikder / Axxaan
