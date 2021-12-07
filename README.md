@@ -37,6 +37,13 @@ more installs then mature.
 From our in depth data analysis, we found that every genre has more free apps then paid, as well as apps with a wider audience
 get more installs. So if one was to create an app it would generally be wise for them to make it free and make the content rating
 E for Everyone to get a good amount of people interested in it.
+### Reflection
+We learned different patterns of users throughout this analysis, it allowed us to ask us ourselves different questions. We learned how to explore data in general
+with different ways of expressing our data with graphs, tables, text, and different coding techniques. 
+### Refinement
+If we were to improve the project, we would ask more questions than touch on each of the data attributes to truly become an expert on this dataset. The steps
+that we would take would involve discussing more amongst ourselves to try and create more simple questions that could lead to more graphs
+being displayed on the technical report for more analysis.
 
 ## Acknowledgements -
 “This project was submitted as the final course project for CSCI 2000U “Scientific Data Analysis” during Fall 2021. The authors certify that the work in this repository is original and that all appropriate resources are rightfully cited.”
